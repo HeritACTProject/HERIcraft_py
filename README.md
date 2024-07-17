@@ -1,7 +1,7 @@
 
-# HERIcraft
+# HERIcraft_py
 
-HERIcraft is a Python tool that allows users to create minecraft maps using OpenStreetMap data specifically for Ireland. 
+HERIcraft_py is a Python tool that allows users to create minecraft maps using OpenStreetMap data. 
 
 * This tool is developed using the Arnis project by Louis Erbkamm. [https://github.com/louis-e/arnis]
 
@@ -39,7 +39,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact HERIcraft Team.
+For questions or inquiries, please contact italo.sousadesena@ucd.ie
 
 
 ## Authors
